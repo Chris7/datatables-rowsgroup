@@ -1,0 +1,28 @@
+{
+  "name": "datatables-rowgroup",
+  "repository": "https://github.com/Chris7/datatables-rowsgroup",
+  "description": "Row grouping functionality for datatables",
+  "keywords": [
+    "datatables",
+    "datatables extensions"
+  ],
+  "authors": [
+    {
+      "name": "Alexey Shildyakov",
+      "email": "ashl1future@gmail.com"
+    },
+    {
+      "name": "Chris Mitchell",
+      "email": "chris.mit7@gmail.com",
+    }
+  ],
+  "version": "0.0.1",
+  "license": "MIT",
+  "ignore": [
+    "LICENSE",
+    "README.md",
+    "anotherExample.html",
+    "example.html"
+  ],
+  "main": "./dataTables.rowsGroup.js",
+}
